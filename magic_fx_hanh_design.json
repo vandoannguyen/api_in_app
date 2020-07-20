@@ -1,6 +1,6 @@
 {
 "product_id":"purchase_video_3",
   "month_id":"purchase_video_month",
- "year_id":"purchase_video_year",
+ "year_id":"purchase_video_3",
 "api_server":"http://1.2.3.35:9000"
 }
