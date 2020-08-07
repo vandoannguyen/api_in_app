@@ -1,7 +1,6 @@
 {
   "per_month": "month",
   "per_year": "year",
-  "per_premium": "infinite",
-  "buy": "buy",
+  "buy": "infinite",
   "coutn_time_inapp": 5
 }
